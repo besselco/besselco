@@ -469,7 +469,7 @@ export const AboutSubLogoC24 = styled.img`
     transition: all 0.3s ease-in-out;
 
 `
-export const AboutSubLogoBDI = styled.img`
+export const AboutSubLogoBDIS = styled.img`
     width: 30%;
     &:hover {
         transform: scale(1.2);
