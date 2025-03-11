@@ -101,7 +101,7 @@ const About = () => {
           <AboutSubLogoContainer 
             target="_blank"
             href="https://www.bdidist.com/">
-            <AboutSubLogoBDI src={BDISLogo} />
+            <AboutSubLogoBDIS src={BDISLogo} />
           </AboutSubLogoContainer>
         </AboutSubLogoGroupContainer>
       </AboutLogoContainer>
