@@ -98,7 +98,7 @@ const About = () => {
             <AboutSubLogoC24 src={CentellianLogo} />
           </AboutSubLogoContainer>
 
-          <AboutSubLogoContainer target="_blank" href="https://besselco.com">
+          <AboutSubLogoContainer target="_blank" href="https://www.bdidist.com/">
             <AboutSubLogoBDIS src={BDISLogo} />
           </AboutSubLogoContainer>
         </AboutSubLogoGroupContainer>
